@@ -1,1 +1,8 @@
-# privacy_policy.txt - placeholder content
+📜 Privacy Policy & Legal Notice
+
+This bot only scrapes public data (headlines, images, descriptions, videos).
+No login data, private info, or illegal activity allowed.
+
+Data collected is not stored permanently on our servers after being sent to you.
+By using this bot, you agree to these terms.
+
