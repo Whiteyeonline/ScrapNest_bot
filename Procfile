@@ -1,1 +1,1 @@
-# Procfile - placeholder content
+python bot.py
