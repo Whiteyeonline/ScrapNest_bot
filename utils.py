@@ -47,4 +47,4 @@ def zip_and_send(bot, chat_id, folder_to_zip):
 def check_balance(user_data, uid):
     """Returns the current balance for a user."""
     return user_data.get(uid, {'uses': 2}).get('uses', 2)
-
+            
