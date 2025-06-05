@@ -126,4 +126,4 @@ def scrape_data(keyword):
     # Return the path to the folder containing scraped data.
     # The zip_and_send function will then handle zipping and sending.
     return folder
-          
+                  
