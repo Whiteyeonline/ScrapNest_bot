@@ -5,4 +5,3 @@ No login data, private info, or illegal activity allowed.
 
 Data collected is not stored permanently on our servers after being sent to you.
 By using this bot, you agree to these terms.
-
