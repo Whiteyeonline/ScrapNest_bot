@@ -42,4 +42,3 @@ def verify_payment(email):
     # ---------------------------------------------------
 
     return True # Always return True for the placeholder
-  
